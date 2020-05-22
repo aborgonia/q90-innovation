@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  quasar:
+  q90-app:
     build:
       context: './app/'
       target: 'develop-stage'
